@@ -1,0 +1,6 @@
+## Interface: 16001, 16002, 16003, 16100, 16101, 16200
+## AllowLoadGameType: camelot
+## Title: No Blocked Popup
+## Notes: Hides the "blocked from an action only available to the Blizzard UI" popup, which loops under Forever's Gamepad UI.
+## Version: 1.0
+NoBlockedPopup.lua
